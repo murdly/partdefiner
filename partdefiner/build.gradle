@@ -45,11 +45,11 @@ dependencies {
 }
 
 publish {
-    groupId = 'com.murdev.murdly'
+    groupId = 'com.akarbowy'
     artifactId = 'partdefiner'
     publishVersion = '1.0'
     desc = 'Define parts of your complicated view and render each part as separate item in your RecyclerView or ListView.'
     licences = ['Apache-2.0']
     uploadName='Partdefiner'
-    website = 'https://github.com/murdly/Partdefiner.git'
+    website = 'https://github.com/murdly/Partdefiner'
 }
