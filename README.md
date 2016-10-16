@@ -2,7 +2,7 @@
 Helps you split your RecyclerView or ListView items into separated parts.
 <br />Based on facebook article about [Fast Rendering News Feed on Android](https://code.facebook.com/posts/879498888759525/fast-rendering-news-feed-on-android/).
 
-![alt tag](images/part_split.png)
+![alt tag](images/part_split.jpg)
 
 ## Usage
 ### Defining part
